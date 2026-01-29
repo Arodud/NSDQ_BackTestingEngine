@@ -1,0 +1,1 @@
+A basic basktesting engine for various investing/arbitrage strategies using free NASDAQ ITCH data.

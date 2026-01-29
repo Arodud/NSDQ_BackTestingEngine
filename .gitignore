@@ -38,3 +38,7 @@ Makefile
 # Dependencies
 *.depend
 *.d
+
+# Data
+
+data/NASDAQ_ITCH_raw
